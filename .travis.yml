@@ -3,3 +3,5 @@ python:
   - 3.5
 install:
   - pip install -q Django==1.8.2
+script:
+  
